@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
+  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
   <br>
   Hi, I'm Jesús Triguero <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
