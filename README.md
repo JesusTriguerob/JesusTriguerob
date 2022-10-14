@@ -1,19 +1,14 @@
-- 👋 Hi, I’m @JesusTriguerob
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JesusTriguerob/JesusTriguerob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!-- Header -->
 <h1 align="center">
   <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
   <br>
   Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
+
+<!---
+JesusTriguerob/JesusTriguerob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <!-- Counter -->
 <p align="center">
