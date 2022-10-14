@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <b>Languages and tools</b>
   <br>
   <br>
-  <code>Java</code>
+  -<code>Java</code>
 </p>
 
 <br>
