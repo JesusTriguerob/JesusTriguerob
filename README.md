@@ -28,7 +28,8 @@ You can click the Preview link to take a look at your changes.
 <h2>Tech stack</h2>
 
 <p align="center">
-  <b>Languages</b>
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+  <b>Languages and tools</b>
   <br>
   <br>
   <a href="https://www.java.com" target="_blank">
@@ -62,15 +63,6 @@ You can click the Preview link to take a look at your changes.
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
   <br>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
 </p>
 
 <br>
