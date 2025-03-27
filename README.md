@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 📓 I am creatively curious and self-taught. I love exploring new technologies and currently learning new skills.
-- 👨🏻💻 I am working at CGI as a Senior software developer.
+- 👨🏻💻 I am working at Knowmaad Mood as a Senior software developer.
 - 🌱 I am currently focusing on **Backend Web Development**, improving my **English** and learning **programming methodologies** every day.
 
 <h2>Tech stack</h2>
